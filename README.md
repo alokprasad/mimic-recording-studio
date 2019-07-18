@@ -1,6 +1,6 @@
 # Mimic Recording Studio
 
-![demo](mimic_recording_studio)
+![demo](mimic_recording_studio.png)
 
 - [Mimic Recording Studio](#mimic-recording-studio)
   * [Software Quick Start](#software-quick-start)
